@@ -1,0 +1,95 @@
+
+
+body{
+    background-color: #bbff0070;
+    margin: 0;
+}
+.box1e2{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 110px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+
+}
+.box1{
+    width: 250px;
+    background-color: rgba(137, 43, 226, 0.686);
+}
+.box2{
+    width: 900px;
+    height: 540px;
+    background-color: rgba(43, 205, 226, 0.685);
+    align-items: center;
+}
+.foto{
+    margin-top: 142px;
+    margin-left: 55px;
+    margin-right: 55px;
+    border-radius: 300px;
+    background-color: blue;
+    position: relative;
+}
+.text{
+    margin: 10px;
+    position: relative;
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+    
+}
+.nm{
+    margin-top: 142px;
+    margin-left: 50px;
+    display: flex;
+    font-size: 25px;
+    width: 600px;
+    height: 90px;
+}
+.nome2{
+    margin-left: 10px;
+    color: rgb(75, 75, 133);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nome1{
+    color: rgb(75, 75, 133);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.infoms{
+    position: relative;
+    display: flex;
+    font-size: 15px;
+    margin-left: 50px;
+}
+.moro{
+    color: rgb(108, 9, 165);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.email{ 
+    color: rgb(159, 35, 231);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.num{
+    color: rgb(108, 9, 165);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.descri{
+    margin-left: 50px;
+    color:  rgb(108, 9, 165);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.apps{
+    margin-left: 50px;
+}
+.conhecimentos{
+    color: rgb(108, 9, 165);
+}
+.objetivos{
+    color: rgb(108, 9, 165);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
